@@ -2,3 +2,4 @@ pypresence==3.2.0
 selenium==4.40.0
 pyfiglet==1.0.4
 webdriver-manager==4.0.2
+requests==2.32.5
